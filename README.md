@@ -5,7 +5,7 @@ The goal of this lab is to showcase an example of Model-Driven Telmetry feature 
 
 Upon completion of this lab you, you will be able to:
 - Configure Model-Driven Telemetry on Cisco IOS-XR devices 
-- Consume data streams from Network Devices using Pipeline
+- Consume data streams from Network Devices using Telegraf
 - Store gathered data in a database such as Influx DB
 - Visualize data in real-time using Grafana tool
 
